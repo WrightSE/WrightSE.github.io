@@ -1,10 +1,12 @@
-head {
-    background-color: darkseagreen;
-}
 h1 {
-    color : rgb(167, 109, 222);
-    font : url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300&display=swap');
-    
+    color : bisque;
+    font : url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300&display=swap');   
+}
+h3{
+    color :bisque
+}
+p{
+    color: bisque;
 }
 body{
     background-color: cadetblue;
