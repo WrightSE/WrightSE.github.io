@@ -1,13 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300&family=Roboto+Slab:wght@300&display=swap');
 h1 {
     color : bisque;
-    font : url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300&display=swap');   
+    font-family: 'Noto Serif', sans-serif;
+    text-align: center;  
 }
 h3{
-    color :bisque
+    color :bisque; 
+    text-align: center;
 }
 p{
     color: bisque;
+    padding: 15px;
 }
 body{
     background-color: cadetblue;
+    font-family: 'Roboto Slab';
+}
+
+ /* Three image containers (use 25% for four, and 50% for two, etc) */
+ .row{
+    display: flex;
+    padding: 10px;
+ }
+ .column{
+    flex: 33.3%;
+    padding: 10px;
+ }
+
+div{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    text-align: left;
+    color: bisque;
 }
