@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
 .cats{
     max-width: 60%;
     height: auto;
@@ -25,7 +27,7 @@ h1{
     background-color: #3e603e; 
     border:5px solid #f0eed4;
     color:#f0eed4;
-    font: poppins;
+    font-family: 'Poppins';
 }
 p{
     font: poppins;
