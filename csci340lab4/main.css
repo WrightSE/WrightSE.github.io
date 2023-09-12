@@ -9,7 +9,7 @@
 
 .facts {
     min-height: 100px;
-    background-color: #465446;
+    background-color: #3e603e;
     border: 5px solid #f0eed4;
     padding:10px;
     color: #f0eed4;
@@ -22,7 +22,7 @@ body{
 }
 
 h1{
-    background-color: #465446; 
+    background-color: #3e603e; 
     border:5px solid #f0eed4;
     color:#f0eed4;
     font: poppins;
