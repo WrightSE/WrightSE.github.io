@@ -13,9 +13,9 @@
     min-height: 100px;
     background-color: #3e603e;
     border: 5px solid #f0eed4;
-    padding:10px;
+    padding: 10px;
     color: #f0eed4;
-    margin: 5px;
+    margin: 15px;
     
 }
 
@@ -28,8 +28,11 @@ h1{
     border:5px solid #f0eed4;
     color:#f0eed4;
     font-family: 'Poppins';
+    padding: 10px;
 }
 p{
     font-family: 'Poppins';
     color: #f0eed4;
+    padding: 10px;
+    margin : 5px;
 }
