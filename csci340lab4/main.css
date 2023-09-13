@@ -30,9 +30,22 @@ h1{
     font-family: 'Poppins';
     padding: 10px;
 }
+h5{
+    color:#f0eed4;
+    font-family: 'Poppins';
+    margin: 15px;
+}
+h6{
+    color:#f0eed4;
+    font-family: 'Poppins';
+    margin: 15px;
+}
 p{
     font-family: 'Poppins';
     color: #f0eed4;
     padding: 10px;
     margin : 5px;
+}
+cite{
+    font-size: small;
 }
